@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">INSTAGRAM</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="postingan">Postingan</string>
+    <string name="ikuti">Ikuti</string>
+    <string name="supiarti">SUPIARTI</string>
+    <string name="_1">1</string>
+    <string name="post_1">1</string>
+    <string name="todo">TODO</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="_99">99</string>
+</resources>
